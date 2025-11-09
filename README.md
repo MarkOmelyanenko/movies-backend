@@ -2,6 +2,10 @@
 
 A Spring Boot REST API for browsing movies and recording user-written reviews. The service stores movies and review documents in MongoDB and exposes endpoints for listing movies, fetching details by IMDb identifier, and creating reviews associated with a movie.
 
+## Frontend Repository
+
+The Frontend for this project is available at: [Movies Frontend](https://github.com/MarkOmelyanenko/movies-frontend)
+
 ## Features
 
 - Exposes RESTful endpoints under `/api/v1` for interacting with movie and review data
